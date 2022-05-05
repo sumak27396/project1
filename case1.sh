@@ -1,4 +1,5 @@
 #!/bin/bash
+#comment line
 num=$1
 case $num in
 	1) echo "this is 1"
